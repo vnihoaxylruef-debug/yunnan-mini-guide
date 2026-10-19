@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#dfeff2"/>
+      <stop offset="100%" stop-color="#d7f0dc"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#bg)"/>
+  <circle cx="960" cy="230" r="180" fill="#e3f4df" opacity="0.8"/>
+  <circle cx="260" cy="980" r="220" fill="#d9ecff" opacity="0.5"/>
+  <path d="M0 760 Q 220 600 440 770 T 1200 720 L 1200 1200 L 0 1200 Z" fill="#cfe8c7" opacity="0.75"/>
+  <text x="600" y="520" font-size="92" text-anchor="middle" fill="#1f3b3a" font-family="Arial, sans-serif" font-weight="700">雲南ミニガイド</text>
+  <text x="600" y="610" font-size="52" text-anchor="middle" fill="#355557" font-family="Arial, sans-serif">＋ 写真パック</text>
+  <text x="600" y="760" font-size="30" text-anchor="middle" fill="#365a66" font-family="Arial, sans-serif">短期旅行向け / 日本語 / すぐ使える</text>
+  <rect x="430" y="830" width="340" height="90" rx="18" fill="#2a6c6c"/>
+  <text x="600" y="890" text-anchor="middle" font-size="36" fill="#ffffff" font-family="Arial, sans-serif">BUY NOW</text>
+</svg>

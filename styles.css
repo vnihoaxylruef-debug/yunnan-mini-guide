@@ -1,0 +1,17 @@
+:root{
+  --bg:#f6f7fb;
+  --accent:#2b7a78;
+  --muted:#666;
+  --container:1100px;
+}
+*{box-sizing:border-box}
+body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Hiragino Kaku Gothic ProN","ヒラギノ角ゴ ProN",Meiryo,Arial; margin:0; color:#222; background:var(--bg)}
+.container{max-width:var(--container); margin:0 auto; padding:24px}
+.hero{background:linear-gradient(135deg,#e6f7f6,#fff); padding:48px 0; text-align:center}
+h1{margin:0;font-size:2rem;color:var(--accent)}
+.tagline{color:var(--muted); margin-top:8px}
+.buy{display:inline-block; margin:20px 8px; padding:12px 22px; background:var(--accent); color:#fff; text-decoration:none; border-radius:8px}
+.price{color:var(--muted)}
+section{background:#fff; margin:18px 0; padding:20px; border-radius:8px; box-shadow:0 1px 3px rgba(0,0,0,.06)}
+.cta{text-align:center}
+footer{color:var(--muted); font-size:.9rem; padding:24px 0; text-align:center}
